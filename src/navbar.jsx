@@ -2,7 +2,7 @@ import { useEffect, useRef } from "react";
 
 function MainHeading() {
     return (
-        <h1 className="MainHeading">Malav Naik</h1>
+        <h1 className="MainHeading">Malav R Naik</h1>
     );
 }
 
